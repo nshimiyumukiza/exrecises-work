@@ -3,6 +3,7 @@ import Hero1 from './hero/Hero1'
 import Hero2 from './hero/Hero2'
 import Hero3 from './hero/Hero3'
 import { Link } from 'react-router'
+import Footer from './Footer'
 
 const Navbar = () => {
   return (
@@ -41,6 +42,7 @@ const Navbar = () => {
       <Hero1 />
       <Hero2 />
       <Hero3 />
+      <Footer />
     </>
   )
 }

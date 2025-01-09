@@ -13,8 +13,8 @@ const Head = () => {
 </div>
 <div className='flex gap-5 pr-4'>
     <Link to="/fal" className='text-md font-bold' href="">Flacon 9</Link>
-    <Link to="ful" className='text-md font-bold' href="">Flacon heavy</Link>
-    <Link to="dro" className='text-md font-bold' href="">Dragon</Link>
+    <Link to="/ful" className='text-md font-bold' href="">Flacon heavy</Link>
+    <Link to="/dro" className='text-md font-bold' href="">Dragon</Link>
     <Link to="" className='text-md font-bold' href="">Starship</Link>
 </div>
 </div>

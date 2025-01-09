@@ -5,7 +5,7 @@ import Head from '../Head'
 const Section1 = () => {
   return (
     <>
-       <div className='h-screen w-full bg-[url("src/images/image.png")] bg-cover text-white'>
+       <div className='h-screen w-full bg-[url("/images/kalisa.png")] bg-cover text-white'>
        <Head />
        <div className="h-screen flex flex-col justify-center items-center">
   <h1 className="text-4xl font-bold">Falcon 9</h1>

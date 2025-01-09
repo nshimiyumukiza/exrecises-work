@@ -4,7 +4,7 @@ import Footer from "../Footer"
 const Section2 = () => {
   return (
     <>
-           <div className='h-screen w-full bg-[url("src/images/gaga.png")] bg-cover text-white'>
+           <div className='h-screen w-full bg-[url("/images/gaga.png")] bg-cover text-white'>
        <Head />
        <div className="h-screen flex flex-col justify-center items-center">
   <h1 className="text-4xl font-bold">Falcon Heavy</h1>
